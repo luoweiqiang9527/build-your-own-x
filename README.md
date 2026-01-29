@@ -1,44 +1,42 @@
-[![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
+## 构建自己的梦想;
 
-## Build your own &lt;insert-technology-here&gt;
+老天师亲传IT宝典, 
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+> *知行合一 — 王阳明.*
 
-> *What I cannot create, I do not understand — Richard Feynman.*
+葵花宝典目录
 
-It's a great way to learn.
-
-* [3D Renderer](#build-your-own-3d-renderer)
-* [Augmented Reality](#build-your-own-augmented-reality)
+* [3D 渲染](#build-your-own-3d-renderer)
+* [增强现实](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
-* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
+* [区块链 / 加密货币](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
-* [Database](#build-your-own-database)
+* [数据库](#build-your-own-database)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
-* [Game](#build-your-own-game)
+* [游戏](#build-your-own-game)
 * [Git](#build-your-own-git)
 * [Network Stack](#build-your-own-network-stack)
-* [Neural Network](#build-your-own-neural-network)
-* [Operating System](#build-your-own-operating-system)
-* [Physics Engine](#build-your-own-physics-engine)
+* [神经网络](#build-your-own-neural-network)
+* [操作系统](#build-your-own-operating-system)
+* [物理引擎](#build-your-own-physics-engine)
 * [Programming Language](#build-your-own-programming-language)
 * [Regex Engine](#build-your-own-regex-engine)
 * [Search Engine](#build-your-own-search-engine)
 * [Shell](#build-your-own-shell)
 * [Template Engine](#build-your-own-template-engine)
 * [Text Editor](#build-your-own-text-editor)
-* [Visual Recognition System](#build-your-own-visual-recognition-system)
+* [视觉识别系统](#build-your-own-visual-recognition-system)
 * [Voxel Engine](#build-your-own-voxel-engine)
 * [Web Browser](#build-your-own-web-browser)
 * [Web Server](#build-your-own-web-server)
-* [Uncategorized](#uncategorized)
+* [未分类](#uncategorized)
 
-## Tutorials
+## 葵花宝典
 
-#### Build your own `3D Renderer`
+#### 3d渲染 `3D Renderer`
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
@@ -380,10 +378,10 @@ It's a great way to learn.
 * [**Ruby**: _Build a Collaborative Text Editor Using Rails_](https://blog.aha.io/text-editor/)
 * [**Rust**: _Hecto: Build your own text editor in Rust_ ](https://www.flenker.blog/hecto/)
 
-#### Build your own `Visual Recognition System`
+#### 视觉识别系统 `Visual Recognition System`
 
-* [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
-* [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+* [**Python**: 车牌识别系统-机器学习](https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
+* [**Python**: 人脸识别-Tensorflow](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 
 #### Build your own `Voxel Engine`
 
@@ -408,9 +406,9 @@ It's a great way to learn.
 * [**Python**: _Implementing a RESTful Web API with Python & Flask_](http://blog.luisrei.com/articles/flaskrest.html)
 * [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
-#### Uncategorized
+#### 未分类
 
-* [**(any)**: _From NAND to Tetris: Building a Modern Computer From First Principles_](http://nand2tetris.org/)
+* [**(any)**: _从 NAND（逻辑门） 到 Tetris（俄罗斯方块）: 从基本原理到构建现代计算机Building a Modern Computer From First Principles_](http://nand2tetris.org/)
 * [**(any)**:  build-your-own-x-vibe-coding: BYOX-style tutorials adapted for vibe coding](https://github.com/inFaaa/build-your-own-x-vibe-coding)
 * [**Alloy**: _The Same-Origin Policy_](http://aosabook.org/en/500L/the-same-origin-policy.html)
 * [**C**: _How to Write a Video Player in Less Than 1000 Lines_](http://dranger.com/ffmpeg/ffmpeg.html)
@@ -471,13 +469,3 @@ It's a great way to learn.
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
-
-## Contribute 
-* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
-* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
-
-## Origins & License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors). It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
